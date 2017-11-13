@@ -131,9 +131,9 @@ header .logo{
 header .logo-mobile{
 	position: absolute;
 	left: 0;
-	width: 350px;
+	width: 300px;
 	top: 3rem;
-	left: 7px;
+	left: 10px;
 }
 
 header .burger_icon{
