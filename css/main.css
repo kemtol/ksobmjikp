@@ -130,9 +130,9 @@ header .logo{
 
 header .logo-mobile{
 	position: absolute;
-	width: 300px;
-	top: 3rem;
-	left: 10px;
+	width: 250px;
+	top: 2.5rem;
+	left: 20px;
 }
 
 header .logo-mobile img{
