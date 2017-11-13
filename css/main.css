@@ -231,23 +231,35 @@ header .social li:first-child{
 	background-size: cover;
 }
 
+.hero > .container{
+	position:relative;
+}
 .hero .caption{
-	position: absolute;
-	max-width: 550px;
-	margin-left: 80px;
-	top: 50%;
-	transform:translate(0,-50%);
-	-webkit-transform:translate(0,-50%);
-	-moz-transform:translate(0,-50%);
-	-o-transform:translate(0,-50%);
+    position: absolute;
+    max-width: 550px;
+    margin-left: 0;
+    top: 40%;
+    left: -10%;
+    /*border-right: 1px solid #fff;
+    height: 300px;*/
+    padding-top: 4rem;
+    transform: translate(0,-50%);
+    -webkit-transform: translate(0,-50%);
+    -moz-transform: translate(0,-50%);
+    -o-transform: translate(0,-50%);
+    z-index: 99;
 }
 
 .hero .caption h1{
 	color: #fff;
 	font-family: "open_bold", Helvetica, Arial, sans-serif;
-	font-size: 5rem;
+	font-size: 4.75rem;
 	font-weight: bold;
+	margin: 0;
 	word-break: break-word;
+	text-align: center;
+	padding: 3rem;
+	/*background: #41c17d;*/
 }
 
 .hero .caption p{
@@ -266,6 +278,16 @@ header .social li:first-child{
 	color: #fff;
     	font-size: 2rem;
     	margin-bottom: 1rem;
+}
+
+.hero .blueprint{
+	background: url(../img/blueprint.png) no-repeat;
+    	width: 110%;
+    	height: 100vh;
+    	background-size: 100%;
+    	background-position: center 90%;
+    	left: -5%;
+    	position: relative;
 }
 
 #slider .caption p{
