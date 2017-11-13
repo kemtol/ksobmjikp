@@ -119,7 +119,7 @@ header{
 
 header .logo{
 	display: table-cell;
-	margin: 45px 100px 0 0;
+	margin: 0;
 }
 
 header .burger_icon{
