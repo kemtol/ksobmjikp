@@ -241,6 +241,16 @@ header .social li:first-child{
 	margin: 15px 0 35px 0;
 }
 
+.hero .caption ul{
+	padding: 2.5rem;
+}
+
+.hero .caption ul li{
+	color: #fff;
+    	font-size: 2rem;
+    	margin-bottom: 1rem;
+}
+
 #slider .caption p{
 	margin: 0;
 }
