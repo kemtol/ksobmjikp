@@ -156,7 +156,6 @@ header .burger_icon{
 
 	margin: 45px 10px 0 0;
 	
-	display: block;
 	position: absolute;
 	width: 100%;
 	left: 0;
@@ -174,6 +173,7 @@ header .burger_icon:hover{
 header .burger_icon.active{
 	background: #359663;
 	color: #ffffff;
+	display: block;
 }
 
 header nav{
