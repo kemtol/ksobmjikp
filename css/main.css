@@ -277,6 +277,10 @@ header .social li:first-child{
 	/*background: #41c17d;*/
 }
 
+.hero .caption h1 span{
+	background:#41c17d;
+}
+
 .hero .caption p{
 	color: #fff;
 	font-family: "open_regular", Helvetica, Arial, sans-serif;
