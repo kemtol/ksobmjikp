@@ -117,9 +117,22 @@ header{
 	background-image: linear-gradient(bottom, #47ad76 0%, #47ad76 0.27%, #40c27d 99.46%, #40c27d 100%);*/
 }
 
+header .container{
+	position:relative;
+}
+
 header .logo{
 	display: table-cell;
 	margin: 0;
+	position: absolute;
+    	left: -22%;
+}
+
+header .logo-mobile{
+	position: absolute;
+	left: 0;
+	width: 400px;
+	top: 2rem;
 }
 
 header .burger_icon{
