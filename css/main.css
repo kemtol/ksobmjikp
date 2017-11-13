@@ -226,7 +226,7 @@ header .social li:first-child{
 }
 
 .hero .caption h1{
-	color: #525252;
+	color: #fff;
 	font-family: "open_bold", Helvetica, Arial, sans-serif;
 	font-size: 34px;
 	font-weight: bold;
@@ -234,7 +234,7 @@ header .social li:first-child{
 }
 
 .hero .caption p{
-	color: #6d6c6c;
+	color: #fff;
 	font-family: "open_regular", Helvetica, Arial, sans-serif;
 	font-size: 16px;
 	line-height: 30px;
