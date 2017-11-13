@@ -119,6 +119,8 @@ header{
 
 header .container{
 	position:relative;
+	height: 125px;
+	border-bottom: 1px solid #fff;
 }
 
 header .logo{
@@ -131,8 +133,10 @@ header .logo{
 header .logo-mobile{
 	position: absolute;
 	width: 250px;
-	top: 2.5rem;
-	left: 20px;
+	/*top: 2.5rem;
+	left: 20px;*/
+	top: 3rem;
+	left: 0;
 }
 
 header .logo-mobile img{
