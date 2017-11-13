@@ -410,7 +410,7 @@ a.app_link{
 
 .about > div{
 	padding: 100px 0;
-	background: url(img/acc-top-right.png) no-repeat;
+	background: url(../img/acc-top-right.png) no-repeat;
 	background-position-y: -1px;
 	background-position-x: right;
 	padding-top: 200px;
