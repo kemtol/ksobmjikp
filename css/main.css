@@ -282,6 +282,7 @@ header .social li:first-child{
 	line-height: 7rem;
 	display:inline-block;
 	padding:0.5rem 3rem;
+	margin-bottom:1rem;
 }
 
 .hero .caption h1 span.a1,
@@ -297,7 +298,15 @@ header .social li:first-child{
 
 .hero .caption h1 span.a4,
 .hero .caption h1 span.a5{
-	text-transform:capitalize
+	text-transform:capitalize;
+	font-family: sans-serif;
+	font-weight: 400;
+	font-size: 5rem;
+}
+
+.hero .caption h1 span.a2,
+.hero .caption h1 span.a3{
+	font-size:7rem;
 }
 
 .hero .caption p{
