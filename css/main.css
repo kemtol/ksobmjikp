@@ -285,15 +285,20 @@ header .social li:first-child{
 }
 
 .hero .caption h1 span.a1,
-.hero .caption h1 span.a3,
-.hero .caption h1 span.a4{
+.hero .caption h1 span.a3{
 	background: #1d7dbe;
 }
 
-.hero .caption h1 span.a2{
+.hero .caption h1 span.a2,
+.hero .caption h1 span.a4,
+.hero .caption h1 span.a5{
 	background:#41c17d
 }
 
+.hero .caption h1 span.a4,
+.hero .caption h1 span.a5{
+	text-transform:capitalize
+}
 
 .hero .caption p{
 	color: #fff;
