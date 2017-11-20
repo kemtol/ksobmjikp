@@ -250,19 +250,17 @@ header .social li:first-child{
 	position:relative;
 }
 .hero .caption{
-    position: absolute;
+    /*position: absolute;
     max-width: 550px;
     margin-left: 0;
     top: 30%;
     left: 1rem;
-    /*border-right: 1px solid #fff;
-    height: 300px;*/
     padding-top: 4rem;
     transform: translate(0,-50%);
     -webkit-transform: translate(0,-50%);
     -moz-transform: translate(0,-50%);
     -o-transform: translate(0,-50%);
-    z-index: 9;
+    z-index: 9;*/
 }
 
 .hero .caption h1{
