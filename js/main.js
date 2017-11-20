@@ -55,7 +55,7 @@ $(document).ready(function(){
 
 
 	//parallax effect initialization
-	//$('.hero').parallax("50%", 0);
+	$('.hero').parallax("50%", 0);
 
 
 
