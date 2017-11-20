@@ -270,7 +270,7 @@ header .social li:first-child{
 .hero .caption h1{
 	color: #fff;
 	font-family: "open_bold", Helvetica, Arial, sans-serif;
-	font-size: 4.75rem;
+	font-size: 6rem;
 	font-weight: bold;
 	margin: 0;
 	word-break: break-word;
@@ -280,8 +280,20 @@ header .social li:first-child{
 .hero .caption h1 span{
 	/*background:#41c17d;*/
 	line-height: 7rem;
-	display:block;
+	display:inline-block;
+	padding:0.5rem 3rem;
 }
+
+.hero .caption h1 span.a1,
+.hero .caption h1 span.a3,
+.hero .caption h1 span.a4{
+	background: #1d7dbe;
+}
+
+.hero .caption h1 span.a2{
+	background:#41c17d
+}
+
 
 .hero .caption p{
 	color: #fff;
