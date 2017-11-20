@@ -248,7 +248,11 @@ header .social li:first-child{
 
 .hero > .container{
 	position:relative;
+	height:100%;
+	display:flex;
+	align-items:center;
 }
+
 .hero .caption{
     /*position: absolute;
     max-width: 550px;
@@ -270,14 +274,13 @@ header .social li:first-child{
 	font-weight: bold;
 	margin: 0;
 	word-break: break-word;
-	text-align: center;
 	padding: 3rem;
-	/*background: #41c17d;*/
 }
 
 .hero .caption h1 span{
-	background:#41c17d;
+	/*background:#41c17d;*/
 	line-height: 7rem;
+	display:block;
 }
 
 .hero .caption p{
