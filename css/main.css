@@ -644,13 +644,15 @@ color: #525151;
 
 #map-line > h1{
 	margin: 0 auto 20px auto;
+	border-top: 2px solid #41C17B;
+	padding-top: 8rem;
 }
 
 #map-line > p{
 	color: #767272;
 	font-family: "open_regular", Helvetica, Arial, sans-serif;
 	font-size: 16px;
-	margin-bottom: 45px;
+	margin-bottom: 8rem;
 	line-height: 32px;
 }
 
