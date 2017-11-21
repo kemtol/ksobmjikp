@@ -600,7 +600,7 @@ a.app_link{
 
 /* Site plan section */
 
-#siteplan h1{
+#siteplan h1,#map-line > h1{
 color: #525151;
     font-family: "open_bold", Helvetica, Arial, sans-serif;
     font-size: 34px;
@@ -636,6 +636,27 @@ color: #525151;
 	width: 13px;
 	height: 13px;
 	margin-right: 1rem;
+}
+
+
+
+/* map line */
+
+#map-line > h1{
+}
+
+#map-line > p{
+	color: #767272;
+	font-family: "open_regular", Helvetica, Arial, sans-serif;
+	font-size: 16px;
+	margin-bottom: 45px;
+	line-height: 32px;
+}
+
+#map-line > .ml1{
+    height: 75vh;
+    background: url(../img/map-line.jpg) no-repeat center center;
+    background-size: cover;
 }
 
 /*		App features 		*/
