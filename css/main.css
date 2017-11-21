@@ -629,13 +629,13 @@ color: #525151;
     	color: #767272;
     	font-family: "open_regular", Helvetica, Arial, sans-serif;
     	font-size: 16px;
-    	margin-bottom: 45px;
 	line-height: 32px;
 }
 .siteplan-legend li > span{
     	display: inline-block;
-	width: 10px;
-    	height: 10px;
+	width: 13px;
+	height: 13px;
+	margin-right: 1rem;
 }
 
 /*		App features 		*/
