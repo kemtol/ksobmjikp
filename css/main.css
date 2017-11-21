@@ -599,6 +599,16 @@ a.app_link{
 
 
 /* Site plan section */
+
+#siteplan h1{
+color: #525151;
+    font-family: "open_bold", Helvetica, Arial, sans-serif;
+    font-size: 34px;
+    font-weight: bold;
+    line-height: 46px;
+    margin: 0 0 20px 0;
+    word-break: break-word;
+}
 .img-siteplan{
 	margin:4rem 0;
 }
@@ -607,12 +617,26 @@ a.app_link{
 	width:100%;
 }
 
+.siteplan-legend::after{
+	content:"";
+	clear:both;
+}
+
 .siteplan-legend li{
 	float:left;
 	display:block;
 	width:33.3%;
+    	color: #767272;
+    	font-family: "open_regular", Helvetica, Arial, sans-serif;
+    	font-size: 16px;
+    	margin-bottom: 45px;
+	line-height: 32px;
 }
-
+.siteplan-legend li > span{
+    	display: inline-block;
+	width: 10px;
+    	height: 10px;
+}
 
 /*		App features 		*/
 
