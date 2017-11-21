@@ -607,7 +607,11 @@ a.app_link{
 	width:100%;
 }
 
-
+.siteplan-legend li{
+	float:left;
+	display:block;
+	width:33.3%;
+}
 
 
 /*		App features 		*/
