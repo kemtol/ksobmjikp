@@ -297,13 +297,15 @@ header .social li:first-child{
 
 .hero .caption h1 span.a1,
 .hero .caption h1 span.a3{
-	background: #1d7dbe;
+	color: #1d7dbe;
+	background:#fff;
 }
 
 .hero .caption h1 span.a2,
 .hero .caption h1 span.a4,
 .hero .caption h1 span.a5{
-	background:#41c17d
+	color:#41c17d;
+	background:#fff;
 }
 
 .hero .caption h1 span.a4,
@@ -596,9 +598,14 @@ a.app_link{
 
 
 
+/* Site plan section */
+.img-siteplan{
+	margin:4rem 0;
+}
 
-
-
+.img-siteplan img{
+	width:100%;
+}
 
 
 
