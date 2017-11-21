@@ -643,6 +643,7 @@ color: #525151;
 /* map line */
 
 #map-line > h1{
+	margin: 0 auto 20px auto;
 }
 
 #map-line > p{
