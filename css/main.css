@@ -94,7 +94,7 @@ a:focus{
 
 .img-responsive{display:inline-block}
 
-
+.greenText{color:#41c17d}
 
 
 
@@ -654,7 +654,10 @@ a.app_link{
 
 #map-line > h1{
 	margin: 0 auto 20px auto;
-	border-top: 2px solid #41C17B;
+	background: url(../img/acc-top-right.png) no-repeat;
+	background-position-y: -1px;
+	background-position-x: right;
+	padding-top: 200px;
 	padding-top: 8rem;
 }
 
