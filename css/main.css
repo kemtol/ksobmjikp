@@ -603,13 +603,14 @@ a.app_link{
 }
 
 #premium--location.about .features_list{
-    margin: 1rem 0;
-    background: #1d7dbe;
-    padding: 4rem;
+	margin: 1rem 0;
+	background: #1d7dbe;
+	padding: 4rem;
 }
 
 #premium--location.about .features_list p{
-	color:#fff
+	color:#fff;
+	text-align:left;
 }
 
 /* Site plan section */
@@ -675,7 +676,6 @@ a.app_link{
 	font-size: 2rem;
 	margin-bottom: 8rem;
 	line-height: 32px;
-	text-align:left;
 }
 
 #map-line > .ml1{
