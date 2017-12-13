@@ -977,6 +977,7 @@ a.app_link{
 footer{
 	padding: 100px 0;
 	text-align: center;
+	background:#eee;
 }
 
 footer .app_platform li{
