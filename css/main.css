@@ -602,6 +602,16 @@ a.app_link{
 	border-bottom:1px solid #ccc;
 }
 
+#premium--location.about .features_list{
+    margin: 1rem 0;
+    background: #1d7dbe;
+    padding: 4rem;
+}
+
+#premium--location.about .features_list p{
+	color:#fff
+}
+
 /* Site plan section */
 
 #siteplan h1,
