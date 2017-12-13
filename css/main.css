@@ -132,7 +132,7 @@ header .logo{
 
 header .logo-mobile{
 	position: absolute;
-	width: 250px;
+	width: 325px;
 	/*top: 2.5rem;
 	left: 20px;*/
 	top: 3rem;
@@ -291,8 +291,8 @@ header .social li:first-child{
 	/*background:#41c17d;*/
 	line-height: 7rem;
 	display:inline-block;
-	padding:0.5rem 3rem;
-	margin-bottom:1rem;
+	padding:1rem 3rem;
+	margin-bottom:0.75rem;
 }
 
 .hero .caption h1 span.a1,
@@ -313,12 +313,17 @@ header .social li:first-child{
 	text-transform:capitalize;
 	font-family: sans-serif;
 	font-weight: 400;
+	font-size: 4rem;
+}
+
+.hero .caption h1 span.a3{
 	font-size: 5rem;
 }
 
-.hero .caption h1 span.a2,
-.hero .caption h1 span.a3{
-	font-size:7rem;
+.hero .caption h1 span.a1,
+.hero .caption h1 span.a2{
+	font-size: 6vh;
+	color: #41c17d;
 }
 
 .hero .caption p{
