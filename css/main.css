@@ -616,6 +616,9 @@ a.app_link{
 	margin: 0 0 20px 0;
 	word-break: break-word;
 }
+#about h1{
+	margin-bottom: 6rem;
+}
 .img-siteplan{
 	margin:4rem 0;
 }
