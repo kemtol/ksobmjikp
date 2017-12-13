@@ -601,7 +601,10 @@ a.app_link{
 	display: inline-block;
 }
 
-
+/* premium location section*/
+#premium--location{
+	border-bottom:1px solid #ccc;
+}
 
 /* Site plan section */
 
