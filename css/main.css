@@ -653,8 +653,8 @@ a.app_link{
 	display:block;
 	width:33.3%;
     	color: #767272;
-    	font-family: "open_regular", Helvetica, Arial, sans-serif;
-    	font-size: 16px;
+    	font-family: georgia;
+    	font-size: 2rem;
 	line-height: 32px;
 }
 .siteplan-legend li > span{
