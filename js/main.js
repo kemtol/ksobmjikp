@@ -1,7 +1,7 @@
 $(document).ready(function(){
 
 	//Navigation menu scrollTo
-	$('header nav ul li a').click(function(event){
+	/*$('header nav ul li a').click(function(event){
 		event.preventDefault();
 		var section = $(this).attr('href');
 		var section_pos = $(section).position();
@@ -10,7 +10,7 @@ $(document).ready(function(){
 			$(window).scrollTo({top:section_pos.top, left:'0px'}, 1000);
 		}
 		
-	});
+	});*/
 
 	$('.app_link').click(function(e){
 		event.preventDefault();
