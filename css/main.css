@@ -229,12 +229,6 @@ header .social li:first-child{
 
 
 
-
-
-
-
-
-
 /*		Hero section 		*/
 
 .hero{
@@ -608,9 +602,17 @@ a.app_link{
 	padding: 4rem;
 }
 
+#premium--location.about .features_list:after{
+	content:'';
+	display:block;
+	clear:both;
+}
+
 #premium--location.about .features_list p{
 	color:#fff;
 	text-align:left;
+	float:left;
+	width:50%;
 }
 
 /* Site plan section */
