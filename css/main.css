@@ -606,7 +606,7 @@ a.app_link{
 /* Site plan section */
 
 #siteplan h1,
-#map-line > h1
+#map-line > h1,
 #about h1{
 	color: #525151;
 	font-family: "open_bold", Helvetica, Arial, sans-serif;
