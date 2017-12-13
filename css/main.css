@@ -607,7 +607,7 @@ a.app_link{
 
 #siteplan h1,
 #map-line > h1,
-#about h1{
+.about h1{
 	color: #525151;
 	font-family: "open_bold", Helvetica, Arial, sans-serif;
 	font-size: 4rem;
@@ -616,7 +616,7 @@ a.app_link{
 	margin: 0 0 20px 0;
 	word-break: break-word;
 }
-#about h1{
+.about h1{
 	margin-bottom: 6rem;
 }
 .img-siteplan{
