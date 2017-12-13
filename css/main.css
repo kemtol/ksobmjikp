@@ -723,6 +723,7 @@ a.app_link{
 	font-size: 16px;
 	margin: 30px 0 0 0;
 	line-height: 28px;
+	display:none;
 }
 
 .app_features .details{
