@@ -657,8 +657,7 @@ a.app_link{
 	background: url(../img/acc-top-right.png) no-repeat;
 	background-position-y: -1px;
 	background-position-x: right;
-	padding-top: 200px;
-	padding-top: 8rem;
+	padding-top: 20rem;
 }
 
 #map-line > p{
