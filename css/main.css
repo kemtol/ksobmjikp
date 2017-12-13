@@ -653,7 +653,7 @@ a.app_link{
 /* map line */
 
 #map-line > h1{
-	margin: 0 auto 20px auto;
+	margin: 0 auto 6rem auto;
 	background: url(../img/acc-top-right.png) no-repeat;
 	background-position-y: -1px;
 	background-position-x: right;
