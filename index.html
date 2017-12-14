@@ -2,7 +2,8 @@
 <html lang="en-us">
 <head>
 	<!--  App Title  -->
-	<title>{{site.title}}</title>
+	<title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }}</title>
+
 	<!--  App Description  -->
 	<meta name="description" content="Capture is a free bootstrap v3.3.2 app landing page perfect to present you IOS, android or windows application in an elegant way."/>
 	<meta charset="utf-8">
@@ -10,6 +11,8 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=Edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
 
+	{% seo %}
+	
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.css"/>
 	<link rel="stylesheet" type="text/css" href="css/owl.transitions.css"/>
 	<link rel="stylesheet" type="text/css" href="css/owl.carousel.css"/>
