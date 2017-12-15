@@ -1044,13 +1044,6 @@ footer .copyright a{
 
 /*		Responsive CSS 		*/
 
-@media (max-width: 360px) {
-	.featured_on li{
-		display: block;
-		width: 100%;
-	}
-}
-
 @media (max-width: 767px) {
 
 
@@ -1104,12 +1097,20 @@ footer .copyright a{
 		margin-left: 10px;
 	}
 
-	.hero{
-		height:100vh;
+	/*		Hero section 		*/
+	
+	.hero .caption{
+		margin-left: 0;
+		margin-left: 0;
+		position: absolute;
+		bottom: 15px;
+		left: 15px;
+		width: calc(100vw - 30px);
+		background: rgba(250,250,250,0.9);
 	}
 	
-	.hero .caption h1{
-		background: #fff;
+	.hero{
+		height:100vh;
 	}
 
 	.hero .caption h1 span.a1,
@@ -1122,6 +1123,7 @@ footer .copyright a{
 		padding: 0;
 		margin-bottom: 0;
 		margin: 0;
+		background:transparent;
 	}
 	
 	.hero .caption h1 span.a4{
@@ -1129,11 +1131,6 @@ footer .copyright a{
 		border-top: 1px dotted #ccc;
 		margin-top: 2rem;
 		padding-top: 2rem;
-	}
-
-	/*		Hero section 		*/
-	.hero .caption{
-		margin-left: 0;
 	}
 
 	.app_store_btn{
@@ -1199,5 +1196,12 @@ footer .copyright a{
 
 	.sub_box #mc_submit{
 		margin-top: 20px;
+	}
+}
+
+@media (max-width: 360px) {
+	.featured_on li{
+		display: block;
+		width: 100%;
 	}
 }
