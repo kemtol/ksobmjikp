@@ -1104,16 +1104,24 @@ footer .copyright a{
 		margin-left: 10px;
 	}
 
+	.hero{
+		height:100vh;
+	}
+	
+	.hero .caption h1{
+		background: #fff;
+	}
 
 	.hero .caption h1 span.a1,
 	.hero .caption h1 span.a2,
 	.hero .caption h1 span.a3,
 	.hero .caption h1 span.a4{
-		font-size:3rem;
+		font-size: 3rem;
 		line-height: normal;
-		display: inline-block;
+		display: block;
 		padding: 0;
 		margin-bottom: 0;
+		margin: 0;
 	}
 
 
