@@ -1123,8 +1123,13 @@ footer .copyright a{
 		margin-bottom: 0;
 		margin: 0;
 	}
-
-
+	
+	.hero .caption h1 span.a4{
+		font-size: 2rem;
+		border-top: 1px dotted #ccc;
+		margin-top: 2rem;
+		padding-top: 2rem;
+	}
 
 	/*		Hero section 		*/
 	.hero .caption{
