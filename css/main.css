@@ -976,7 +976,7 @@ a.app_link{
 }
 
 
-.posts h2{
+.posts > h2{
 color: #525151;
     font-family: "open_bold", Helvetica, Arial, sans-serif;
     font-size: 4rem;
@@ -991,7 +991,7 @@ color: #525151;
 	border-top:1px solid #ddd;
 }
 
-.post:first-child{
+.posts .post:nth-child(1){
 	border-top:none;
 }
 
