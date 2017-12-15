@@ -1049,7 +1049,6 @@ footer .copyright a{
 /*		Responsive CSS 		*/
 
 @media (max-width: 1400px) {
-	
 	.hero .caption{
 		background:#fff;
 		position: absolute;
@@ -1078,6 +1077,13 @@ footer .copyright a{
 }
 
 @media (max-width: 767px) {
+	.header .logo-mobile{
+		width: 100%;
+		top: 2rem;
+		left: 0;
+		padding: 0 2rem;
+	}
+	
 	.row{
 		margin-right: 0;
 		margin-left: 0;
