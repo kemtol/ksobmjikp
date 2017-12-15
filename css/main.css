@@ -1045,7 +1045,10 @@ footer .copyright a{
 /*		Responsive CSS 		*/
 
 @media (max-width: 767px) {
-
+	.row{
+		margin-right: 0;
+		margin-left: 0;
+	}
 
 	/*		Header 		*/
 	header .logo{
@@ -1190,14 +1193,16 @@ footer .copyright a{
 	}
 	
 	
-	#about .container{
+	#about .container,
+	#siteplan .container,
+	.posts.container{
 		padding-top: 15rem;
 		padding-bottom: 0;
 	}
 	
-	#about .container .row{
-		margin-right: 0;
-		margin-left: 0;
+	.posts article{
+		padding:3rem;
+		text-align:center;
 	}
 	
 	.about .features_list p{
