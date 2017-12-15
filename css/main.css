@@ -1077,7 +1077,7 @@ footer .copyright a{
 }
 
 @media (max-width: 767px) {
-	.header .logo-mobile{
+	header .logo-mobile{
 		width: 100%;
 		top: 2rem;
 		left: 0;
