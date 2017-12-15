@@ -1145,10 +1145,15 @@ footer .copyright a{
 		padding-right: 0;
 		text-align: center;
 	}
-
-
-
-
+	
+	#map-line > p{
+		margin-bottom:0;
+	}
+	
+	#map-line > .ml1 {
+		height: 50vh;
+		background: url(../img/map-line.jpg) no-repeat 75% center;
+	}
 
 	/*		Featured on section		*/
 	.featured_on{
