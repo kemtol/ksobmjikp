@@ -1150,13 +1150,30 @@ footer .copyright a{
 		margin-bottom:0;
 	}
 	
+	#map-line > h1{
+		padding-top: 15rem;
+		margin-bottom:4rem;
+	}
+	
+	#map-line > p{
+		margin-bottom:4rem;
+	}
+	
 	#map-line > .ml1 {
 		height: 50vh;
 		background: url(../img/map-line.jpg) no-repeat 75% center;
+		margin-bottom: 4rem;
+		margin: 2rem 2rem 4rem 2rem;
+		border-radius:1rem;
+	}
+	
+	#map-line > .ml1:before{
+		background:transparent;
 	}
 
 	#premium--location.about .features_list{
 		padding:0;
+		margin: 1px 0;
 	}
 	
 	/*		Featured on section		*/
@@ -1204,7 +1221,9 @@ footer .copyright a{
 	}
 
 
-
+	.app_features .details{
+		margin-bottom:1px;
+	}
 
 
 
