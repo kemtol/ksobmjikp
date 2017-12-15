@@ -3,53 +3,12 @@ layout: default
 ---
 
 	<!--  Header Section  -->
-	<header>
-		<div class="container">
-			<div class="hidden-xs hide logo pull-left animated wow fadeInLeft">
-				<img src="img/logo.png" alt="" title="">
-			</div>
-			<div class="logo-mobile">
-				<img src="img/logo-mobile.png" alt="" title="">
-			</div>
-			
-			<nav class="pull-right">
-				<ul class="list-unstyled">
-					<li class="animated wow fadeIn" data-wow-delay="0s"><a href="#map-line">Where</a></li>
-					<li class="animated wow fadeIn" data-wow-delay=".1s"><a href="#about">About Us</a></li>
-					<li class="animated wow fadeIn" data-wow-delay=".2s"><a href="#siteplan">Siteplan</a></li>
-					<li class="animated wow fadeIn" data-wow-delay=".3s"><a href="https://drive.google.com/file/d/1JlY1QFKPG1dJo9oReaXRCSjuzPyHOh2p/view">PDF Version</a></li>
-				</ul>
-			</nav>
-
-			<span class="burger_icon">menu</span>
-		</div>
-	</header>
+	{% include header.html %}
 	<!--  End Header Section  -->
 
-
-
-
-	<!--  Hero Section  -->
-	<section class="hero" id="hero">
-		<div class="container">
-			<div class="caption">
-				<h1 class="text-uppercase  animated wow fadeIn">
-					<span class="a1">CARGO</span><br/>
-					<span class="a2">DISTRIBUTION CENTER</span><br/>
-					<span class="a3">TERMINAL TELUK LAMONG</span><br/>
-					<span class="a4">The 1<sup>st</sup> Green & Automated Port In Indonesia</span>
-				</h1>
-			</div>
-			<div class="blueprint hide">
-			</div>
-		</div>
-	</section>
-	<!--  End Hero Section  -->
-
-
-
-
-
+	<!--  Jumbotron Section  -->
+	{% include jumbotron.html %}
+	<!--  End Jumbotron Section  -->
 
 	<!--  Featured On Section 
 	<section class="featured_on">
@@ -308,18 +267,7 @@ layout: default
 
 	<!--  Footer Section  -->
 	<footer>
-		<!--<ul class="list-unstyled list-inline app_platform">
-			<li class="animated wow fadeInDown" data-wow-delay="0s">
-				<a href=""><img src="img/android_icon.png" alt="" title=""></a>
-			</li>
-			<li class="animated wow fadeInDown" data-wow-delay=".1s">
-				<a href=""><img src="img/ios_icon.png" alt="" title=""></a>
-			</li>
-			<li class="animated wow fadeInDown" data-wow-delay=".2s">
-				<a href=""><img src="img/windows_icon.png" alt="" title=""></a>
-			</li>
-		</ul>-->
-		<p class="copyright animated wow fadeIn" data-wow-duration="2s">© 2018 <a href="/" target="_blank"><strong>teluklamongcargo.co.id</strong></a>. All Rights Reserved</p>
+		{% include footer.html %}
 	</footer>
 	<!--  End Footer Section  -->
 
