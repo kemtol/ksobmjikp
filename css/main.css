@@ -1113,6 +1113,10 @@ footer .copyright a{
 		height:100vh;
 	}
 
+	.hero h1 br{
+		display:none;
+	}
+			
 	.hero .caption h1 span.a1,
 	.hero .caption h1 span.a2,
 	.hero .caption h1 span.a3,
