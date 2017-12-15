@@ -1054,6 +1054,7 @@ footer .copyright a{
 
 	header .burger_icon{
 		display: block;
+		padding: 20px 0;
 	}
 
 	header nav{
@@ -1061,7 +1062,7 @@ footer .copyright a{
 		float: none;
 		background: #47ad76;
 		position: absolute;
-		margin-top: 130px;
+		margin-top: 160px;
 		left: 0;
 		display: none;
 	}
