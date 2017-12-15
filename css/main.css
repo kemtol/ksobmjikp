@@ -877,11 +877,15 @@ a.app_link{
 	padding-top: 200px;
 }
 
-.sub_box .cta_text{
-	color: #fff;
-	font-family: "open_regular", Helvetica, Arial, sans-serif;
-	font-size: 20px;
+.sub_box h2.cta_text{
 	margin-bottom: 50px;
+	color: #525151;
+	font-family: "open_bold", Helvetica, Arial, sans-serif;
+	font-size: 4rem;
+	font-weight: bold;
+	line-height: 46px;
+	margin: 0 0 4rem 0;
+	word-break: break-word;
 }
 
 .sub_box #mc-email{
