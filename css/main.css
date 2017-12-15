@@ -1046,6 +1046,10 @@ footer .copyright a{
 
 @media (max-width: 1400px) {
 	
+	.hero .caption{
+		background:#fff
+	}
+	
 	.hero .caption h1 br{
 		display:none;
 	}
@@ -1059,6 +1063,11 @@ footer .copyright a{
 		background: transparent;
 		margin-bottom: 0;
 		line-height: unset;
+		padding: 1rem;
+	}
+	
+	.hero .caption h1 span.a4{
+	    font-size: 2.75rem;
 	}
 }
 
