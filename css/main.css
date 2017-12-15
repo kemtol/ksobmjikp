@@ -1155,6 +1155,10 @@ footer .copyright a{
 		background: url(../img/map-line.jpg) no-repeat 75% center;
 	}
 
+	#premium--location.about .features_list{
+		padding:0;
+	}
+	
 	/*		Featured on section		*/
 	.featured_on{
 		padding: 25px 0 5px 0!important;
@@ -1164,7 +1168,16 @@ footer .copyright a{
 		margin-bottom: 25px!important;
 	}
 
-
+	#premium--location .container{
+		padding-bottom:0;
+	}
+	
+	.about .features_list p{
+		font-size: 1.5rem;
+		margin-bottom: 45px;
+		line-height: 3rem;
+		padding: 1rem;
+	}
 
 
 
