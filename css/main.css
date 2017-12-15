@@ -1189,6 +1189,17 @@ footer .copyright a{
 		padding-bottom:0;
 	}
 	
+	
+	#about .container{
+		padding-top: 15rem;
+		padding-bottom: 0;
+	}
+	
+	#about .container .row{
+		margin-right: 0;
+		margin-left: 0;
+	}
+	
 	.about .features_list p{
 		font-size: 1.5rem;
 		margin-bottom: 45px;
@@ -1220,7 +1231,11 @@ footer .copyright a{
 		margin-top: 20px;
 	}
 
-
+	.app_features .container{
+		padding-top: 15rem;
+		padding-bottom: 0;
+	}
+	
 	.app_features .details{
 		margin-bottom:1px;
 	}
