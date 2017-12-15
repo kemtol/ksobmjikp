@@ -6,8 +6,12 @@ layout: default
 	{% include jumbotron.html %}
 	<!--  End Jumbotron Section  -->
 
+	{% include about.html %}
+
+	{% include contact.html %}
+
 	<section class="about">
-		<div class="posts container">
+		<div class="posts container text-center">
 			{% for post in site.posts %}
 			<article class="post">
 
