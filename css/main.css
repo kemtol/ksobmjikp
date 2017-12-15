@@ -1007,7 +1007,16 @@ color: #525151;
 }
 
 .post.container{
-	margin:15rem auto;
+	margin:10rem auto;
+}
+
+.post.container h1{
+	font-size:4rem;
+	margin-bottom:4rem;
+}
+
+.post.container p{
+	font-size:2rem;
 }
 
 
