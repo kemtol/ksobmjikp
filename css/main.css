@@ -1000,6 +1000,11 @@ color: #525151;
 	color:#999;
 }
 
+.posts a.read-more {
+    font-size: 2rem;
+    font-family: georgia;
+    opacity: 0.8;
+}
 
 
 /*		Footer 		*/
