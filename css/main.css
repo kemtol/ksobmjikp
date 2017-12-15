@@ -1044,6 +1044,19 @@ footer .copyright a{
 
 /*		Responsive CSS 		*/
 
+@media (max-width: 1400px) {
+	.hero .caption h1 span.a1,
+	.hero .caption h1 span.a2,
+	.hero .caption h1 span.a3,
+	.hero .caption h1 span.a4{
+		font-size: 4rem;
+		display: block;
+		background: transparent;
+		margin-bottom: 0;
+		line-height: unset;
+	}
+}
+
 @media (max-width: 767px) {
 	.row{
 		margin-right: 0;
