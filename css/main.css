@@ -1045,6 +1045,11 @@ footer .copyright a{
 /*		Responsive CSS 		*/
 
 @media (max-width: 1400px) {
+	
+	.hero .caption h1 br{
+		display:none;
+	}
+	
 	.hero .caption h1 span.a1,
 	.hero .caption h1 span.a2,
 	.hero .caption h1 span.a3,
