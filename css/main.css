@@ -976,10 +976,24 @@ a.app_link{
 }
 
 
+.posts h2{
+color: #525151;
+    font-family: "open_bold", Helvetica, Arial, sans-serif;
+    font-size: 4rem;
+    font-weight: bold;
+    line-height: 46px;
+    margin: 0 0 4rem 0;
+    word-break: break-word;
+}
 
+.posts article{
+	padding:5rem 0;
+	border-top:1px solid #ddd;
+}
 
-
-
+.posts article:first-child{
+	border-top:none;
+}
 
 
 
