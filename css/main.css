@@ -870,6 +870,14 @@ a.app_link{
 	background: #1d7dbe;
 }
 
+.subb p{
+	font-size: 2rem;
+	font-family: georgia;
+	color: #fff;
+	margin: 5rem 0;
+	padding: 0 5rem;
+}
+
 .sub_box{
 	width: 100%;
 	text-align: center;
