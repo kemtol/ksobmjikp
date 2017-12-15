@@ -866,11 +866,14 @@ a.app_link{
 
 /*		Subscription section 		*/
 
+.subb{
+	background: #1d7dbe;
+}
+
 .sub_box{
 	width: 100%;
 	text-align: center;
 	padding: 100px 0;
-	background: #1d7dbe;
 }
 
 .sub_box h2.cta_text{
