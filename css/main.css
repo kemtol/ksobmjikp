@@ -987,8 +987,9 @@ color: #525151;
 }
 
 .posts article{
-	padding:5rem 0;
-	border-top:1px solid #ddd;
+	padding: 3rem 0;
+	border-top: 1px solid #eee;
+	border-bottom: 1px solid #eee;
 }
 
 .posts .post:nth-child(1){
@@ -1004,6 +1005,10 @@ color: #525151;
     font-size: 2rem;
     font-family: georgia;
     opacity: 0.8;
+}
+
+.posts a.read-more:hover{
+    opacity: 1;
 }
 
 
