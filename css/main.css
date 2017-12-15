@@ -83,10 +83,10 @@ body{
 	margin: 0px;
 }
 
-a:focus{
+/*a:focus{
 	color: #fff!important;
 	text-decoration: none!important;
-}
+}*/
 
 .container{
 	max-width: 1130px;
