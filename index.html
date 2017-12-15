@@ -24,6 +24,9 @@ layout: default
 
 			<a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Baca Selengkapnya</a>
 			</article>
+			<div class="date">
+				Written on {{ page.date | date: "%B %e, %Y" }}
+			</div>
 			{% endfor %}
 		</div>
 	</section>
