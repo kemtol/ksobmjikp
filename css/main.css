@@ -24,11 +24,6 @@
 */
 
 
-
-
-
-
-
 /*		Fonts		*/
 @font-face {
     font-family: 'open_regular';
@@ -1110,7 +1105,16 @@ footer .copyright a{
 	}
 
 
-
+	.hero .caption h1 span.a1,
+	.hero .caption h1 span.a2,
+	.hero .caption h1 span.a3,
+	.hero .caption h1 span.a4{
+		font-size:3rem;
+		line-height: normal;
+		display: inline-block;
+		padding: 0;
+		margin-bottom: 0;
+	}
 
 
 
