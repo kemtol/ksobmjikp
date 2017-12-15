@@ -1189,7 +1189,7 @@ footer .copyright a{
 	}
 
 	#premium--location .container{
-		padding-bottom:0;
+		padding-bottom:1.5rem;
 	}
 	
 	
@@ -1238,7 +1238,7 @@ footer .copyright a{
 
 	.app_features .container{
 		padding-top: 15rem;
-		padding-bottom: 0;
+		padding-bottom: 1.5rem;
 	}
 	
 	.app_features .details{
