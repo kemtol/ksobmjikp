@@ -1017,8 +1017,15 @@ color: #525151;
 
 .post.container p{
 	font-size:2rem;
+	margin-bottom:2rem;
+	font-family:georgia;
 }
 
+.post.container .date{
+	margin-bottom: 3rem;
+	font-size: 1.5rem;
+	color: #999;
+}
 
 /*		Footer 		*/
 
@@ -1079,9 +1086,16 @@ footer .copyright a{
 		line-height: unset;
 		padding: 1rem;
 	}
+
+	.hero .caption h1 span.a3{
+	    	font-size: 2.75rem;
+	}
 	
 	.hero .caption h1 span.a4{
-	    font-size: 2.75rem;
+		font-size: 2.5rem;
+		margin-top: 2rem;
+		padding-top: 2rem;
+		border-top: 1px solid #ccc;
 	}
 }
 
@@ -1180,6 +1194,10 @@ footer .copyright a{
 		margin-bottom: 0;
 		margin: 0;
 		background:transparent;
+	}
+	
+	.hero .caption h1 span.a3{	
+		font-size: 2.25rem;
 	}
 	
 	.hero .caption h1 span.a4{
