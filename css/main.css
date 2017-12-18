@@ -616,6 +616,10 @@ a.app_link{
 	text-align:left;
 	float:left;
 	width:50%;
+	font-family: georgia;
+	font-size: 2rem;
+	margin-bottom: 45px;
+	line-height: 32px;
 }
 
 /* Site plan section */
