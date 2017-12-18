@@ -1039,6 +1039,10 @@ color: #525151;
 	font-family:georgia;
 }
 
+.post.container img{
+	max-width:100%;
+}
+
 .post.container .date{
 	margin-bottom: 3rem;
 	font-size: 1.5rem;
