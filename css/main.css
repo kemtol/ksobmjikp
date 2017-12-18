@@ -595,19 +595,23 @@ a.app_link{
 	border-bottom:1px solid #ccc;
 }
 
-#premium--location.about .features_list{
+#premium--location.about .features_list,
+#app_features .features_list
+{
 	margin: 1rem 0;
 	background: #1d7dbe;
 	padding: 4rem;
 }
 
-#premium--location.about .features_list:after{
+#premium--location.about .features_list:after,
+#app_features .features_list:after{
 	content:'';
 	display:block;
 	clear:both;
 }
 
-#premium--location.about .features_list p{
+#premium--location.about .features_list p,
+#app_features .features_list p{
 	color:#fff;
 	text-align:left;
 	float:left;
