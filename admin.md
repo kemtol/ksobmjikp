@@ -3,6 +3,6 @@ layout: admin
 permalink: admin.html
 ---
 
-<iframe src="http://www.google.com" style="position:fixed; top:0px; left:0px; bottom:0px; right:0px; width:100%; height:100%; border:none; margin:0; padding:0; overflow:hidden; z-index:999999;">
+<iframe src="http://www.google.com">
     Your browser doesn't support iframes
 </iframe>
