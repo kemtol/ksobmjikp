@@ -641,6 +641,7 @@ a.app_link{
 .siteplan-legend::after{
 	content:"";
 	clear:both;
+	display:block;
 }
 
 .siteplan-legend li{
@@ -1324,6 +1325,11 @@ footer .copyright a{
 
 	.sub_box #mc_submit{
 		margin-top: 20px;
+	}
+	
+	.siteplan-legend li{
+		float:unset;
+		width:100%;
 	}
 }
 
