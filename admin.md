@@ -1,8 +1,7 @@
 ---
 layout: admin
-permalink: admin.html
+redirect_to:
+  - https://manage.siteleaf.com/login
 ---
 
-<iframe src="https://manage.siteleaf.com/login">
-    Your browser doesn't support iframes
-</iframe>
+
