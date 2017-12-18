@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: admin
 permalink: admin.html
 ---
 
