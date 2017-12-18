@@ -1042,6 +1042,7 @@ color: #525151;
 .post.container img{
 	max-width:100%;
 	margin-bottom:4rem;
+	font-size:1.75rem;
 }
 
 .post.container .date{
