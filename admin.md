@@ -1,6 +1,5 @@
 ---
-layout: admin.html
-permalink: backend.html
+layout: admin
 ---
 
 tes
