@@ -622,6 +622,15 @@ a.app_link{
 	line-height: 32px;
 }
 
+#premium--location.about .features_list .subhead,
+#app_features .features_list .subhead{
+    display: block;
+    font-size: 2rem;
+    font-family: georgia;
+    text-align: left;
+    color: #fff;
+}
+
 /* Site plan section */
 
 #siteplan h1,
