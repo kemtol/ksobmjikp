@@ -1290,7 +1290,7 @@ footer .copyright a{
 	}
 	
 	.about .features_list p{
-		font-size: 1.5rem;
+		font-size: 1.75rem;
 		margin-bottom: 45px;
 		line-height: 3rem;
 		padding: 1rem;
@@ -1329,6 +1329,27 @@ footer .copyright a{
 		margin-bottom:1px;
 	}
 
+	#premium--location.about .features_list p,
+	#app_features .features_list p{
+		color:#fff;
+		text-align:left;
+		float:none;
+		width:100%;
+		font-family: georgia;
+		font-size: 1.75rem;
+		margin-bottom: 0px;
+		line-height: 32px;
+	}
+
+	#premium--location.about .features_list .subhead,
+	#app_features .features_list .subhead{
+		display: block;
+		font-size: 1.75rem;
+		font-family: georgia;
+		text-align: left;
+		color: #fff;
+	}
+	
 
 
 	/*		Subscription section 		*/
