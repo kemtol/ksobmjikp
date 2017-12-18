@@ -728,7 +728,7 @@ a.app_link{
     margin-bottom: 6rem;
 }
 
-.app_features p{
+.app_features p.text-lowercase{
 	color: #e0f7eb;
 	font-family: "open_regular", Helvetica, Arial, sans-serif;
 	font-size: 16px;
