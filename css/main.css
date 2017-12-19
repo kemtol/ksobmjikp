@@ -956,6 +956,7 @@ a.app_link{
 	margin-right: -4px;
 	text-align: center;
 	vertical-align: middle;
+	position:relative;
 }
 
 .sub_box #mc_submit i{
@@ -967,6 +968,11 @@ a.app_link{
 
 #mc_submit i.icon{
 	background: url('../img/sub_icon.png') no-repeat;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-top: -7px;
+	margin-left: -10px;
 }
 
 #mc_submit i.loading{
