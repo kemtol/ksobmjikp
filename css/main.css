@@ -1066,7 +1066,7 @@ color: #525151;
 footer{
 	padding: 100px 0;
 	text-align: center;
-	background:#eee;
+	background:#41c17d;
 }
 
 footer .app_platform li{
@@ -1078,14 +1078,15 @@ footer .app_platform li:first-child{
 }
 
 footer .copyright{
-	color: #757171;
+	color: #fff;
 	font-family: "open_regular", Helvetica, Arial, sans-serif;
-	font-size: 12px;
+	font-size: 1.5rem;
 	letter-spacing: .5px;
 }
 
 footer .copyright a{
-	color: #565555;
+	color: #fff;
+	text-decoration:underline;
 }
 
 
