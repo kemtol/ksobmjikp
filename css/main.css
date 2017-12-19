@@ -994,6 +994,10 @@ a.app_link{
 	display: none;
 }
 
+.sub_box p a{
+	color: #fff;
+	text-decoration: underline;
+}
 
 .posts > h2{
 color: #525151;
