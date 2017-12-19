@@ -1,6 +1,8 @@
 ---
 title: TRIWULAN 3 2017, KINERJA TELUK LAMONG TERUS MEMBAIK
 date: 2017-12-19 03:57:00 Z
+categories:
+- News
 ---
 
 SURABAYA – PT Terminal Teluk Lamong ( TTL ), anak usaha PT Pelabuhan Indonesia III ( persero ) semakin menunjukkan tren produksi yang positif setelah dua setengah tahun beroperasi. Terminal dengan konsep automation dan ramah lingkungan ini semakin menunjukkan produktivitas yang positif. Sampai dengan triwulan tahun 2017 ini, arus produksi petikemas di TTL mencapai 340,592 teus. Meningkat 99,6 % dibanding dengan produksi tahun sebelumnya, yaitu sebesar 170,597 teus pada periode yang sama. Peningkatan yang signifikan terlihat pada arus petikemas domestik. Berbeda dengan hasil kinerja semester I tahun 2017 yang lebih signifikan pada arus petikemas Internasional. Tahun 2016, pada triwulan ketiga, arus petikemas domestik TTL sebesar 73,377 teus. Sedangkan pada triwulan tahun ini, mencapai sebesar 149,781 teus. Terjadi peningkatan produksi sebesar 104,2 %.  Pada arus petikemas internasional juga terjadi kenaikan produktivitas sebesar 96,2 % dibanding periode yang sama tahun sebelumnya.
