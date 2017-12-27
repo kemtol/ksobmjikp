@@ -40,7 +40,9 @@ layout: default
 			{% for post in site.categories.Gallery %}
 			<article class="post">
 				<div class="entry">
-					{{ post.excerpt }}
+					<a href="{{ site.baseurl }}{{ post.url }}">
+						{{ post.excerpt }}
+					</a>
 				</div>
 				<em><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></em>
 			</article>
