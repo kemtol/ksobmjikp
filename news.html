@@ -1,12 +1,25 @@
 ---
-permalink: "/gallery/"
+permalink: "/news/"
 layout: default
 ---
+	{% include jumbotron.html %}
+	<style>
+	  .hero{
+	      height: 124px;
+	  }
 
+	  .hero .container{
+	    display:none;
+	  }
+
+	  header .container{
+	    border-bottom:0;
+	  }
+	</style>
 	<section class="about">
 		<div class="posts container">
 			<h2 class="text-center">LATEST NEWS</h2>
-			{% for post in site.categories.Gallery %}
+			{% for post in site.categories.News %}
 			<article class="post">
 
 			<h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
