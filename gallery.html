@@ -14,18 +14,32 @@ layout: default
 	  header .container{
 	    border-bottom:0;
 	  }
+		
+		article.post{
+		    float: left;
+		    width: 33%;
+		}
+		
+		article.post img{
+			max-width:100%;
+		}
+		
+		article.post em{
+			display:block;
+			text-align:center
+		}
+		
 	</style>
 	<section class="about">
 		<div class="posts container">
-			<h2 class="text-center">LATEST NEWS</h2>
+			<h2 class="text-center">GALLERY</h2>
+			
 			{% for post in site.categories.Gallery %}
 			<article class="post">
-
-			<h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-
-			<div class="entry">
-			{{ post.excerpt }}
-			</div>
+				<div class="entry">
+					{{ post.excerpt }}
+				</div>
+				<em><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></em>
 			</article>
 			{% endfor %}
 		</div>
