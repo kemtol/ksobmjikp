@@ -1,5 +1,5 @@
 ---
-title: Gallery 01
+title: 'Photo: Terminal Teluk Lamong'
 date: 2017-12-27 08:52:00 Z
 categories:
 - Gallery
