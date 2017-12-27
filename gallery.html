@@ -1,0 +1,24 @@
+---
+layout: default
+permalink: /gallery/
+---
+	<section class="about">
+		<div class="posts container">
+			<h2 class="text-center">LATEST NEWS</h2>
+			{% for post in site.categories.News %}
+			<article class="post">
+
+			<h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+
+			<!--<div class="entry">
+			{{ post.excerpt }}
+			</div>-->
+
+			<a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+			<div class="date">
+				Written on {{ post.date | date: "%B %e, %Y" }}
+			</div>
+			</article>
+			{% endfor %}
+		</div>
+	</section>
