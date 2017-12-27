@@ -955,7 +955,7 @@ a.app_link{
 	outline: none;
 	margin-right: -4px;
 	text-align: center;
-	vertical-align: middle;
+	vertical-align: bottom;
 	position:relative;
 }
 
