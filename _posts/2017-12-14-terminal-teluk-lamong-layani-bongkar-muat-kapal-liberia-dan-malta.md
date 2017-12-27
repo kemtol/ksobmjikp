@@ -2,6 +2,7 @@
 title: Terminal Teluk Lamong Layani Bongkar Muat Kapal Liberia dan Malta
 date: 2017-12-14 00:00:00 Z
 layout: post
+categories: News
 ---
 
 ![bg-teluk-lamong.jpg](/uploads/bg-teluk-lamong.jpg)
