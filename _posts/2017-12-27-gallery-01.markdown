@@ -1,0 +1,8 @@
+---
+title: Gallery 01
+date: 2017-12-27 08:52:00 Z
+categories:
+- Gallery
+---
+
+![bg-teluk-lamong.jpg](/uploads/bg-teluk-lamong.jpg)
