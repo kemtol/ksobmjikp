@@ -103,7 +103,7 @@ $(document).ready(function(){
 
 
 	//Mailchimp subscription form initialization
-	$('#submit_form').submit(function(){
+	/*$('#submit_form').submit(function(){
 		$('#mc_submit').attr('disabled', 'disabled');		
    		processing('icon', 'loading');
 	});
@@ -133,7 +133,7 @@ $(document).ready(function(){
 
 	function processing(hide, show){
 			$('#mc_submit i').removeClass(hide).addClass(show);
-	}
+	}*/
 
 
 
