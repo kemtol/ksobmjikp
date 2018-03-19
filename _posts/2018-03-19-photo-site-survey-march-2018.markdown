@@ -14,3 +14,5 @@ tags:
 
 ![kondisi TL.jpeg](/uploads/kondisi%20TL.jpeg)
 ![kondisi TL 4.jpeg](/uploads/kondisi%20TL%204.jpeg)
+![kondisi TL 2.jpeg](/uploads/kondisi%20TL%202.jpeg)
+![kondisi TL 3.jpeg](/uploads/kondisi%20TL%203.jpeg)
