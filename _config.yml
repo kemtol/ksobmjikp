@@ -1,6 +1,6 @@
 ---
 title: TELUK LAMONG CARGO DISTRIBUTION CENTER
-timezone: UTC
+timezone: Asia/Jakarta
 collections:
   posts:
     title: Posts
@@ -41,7 +41,7 @@ footer-links:
 disqus: 
 google_analytics: 
 url: http://www.teluklamongcargo.co.id
-baseurl: ''
+baseurl: 
 permalink: "/:title/"
 excerpt_separator: "<!--more-->"
 version: v1.2.0
@@ -51,7 +51,7 @@ kramdown:
   syntax_highlighter_opts:
     css_class: highlight
 sass:
-  style: :expanded
+  style: expanded
 gems:
 - jekyll-sitemap
 - jekyll-feed
