@@ -6,6 +6,8 @@ categories:
 - News
 ---
 
+![384292583p.jpg](/uploads/384292583p.jpg)
+
 Pelindo III menginvestasikan Rp. 1,3 Trilyun terkait pembangunan flyover dan tapper di Terminal Teluk Lamong dengan panjang 2,45 Km. Untuk proyek ini, PT Pelindo III mempercayakan PT WIKA selaku kontraktor. Fly over ini menghubungkan terminal Teluk Lamong dengan tol Surabaya–Gresik melalui Jalur Lingkar Luar Barat (JLLB). Pengerjaan proyek  akan berlangsung selama 365 hari kalender kerja dan dilanjutkan dengan masa pemeliharaan selama 720 hari kalender. Rencananya proyek tersebut selesai dan siap dioperasikan tahun 2019 mendatang.
 
 Pekerjaan proyek flyover akan mencakup aktivitas perencanaan detail engineering design (DED) atau desain teknis secara detail hingga teknis pelaksanaan pembangunan. Dalam hal konstruksi, WIKA akan menggunakan sistem jembatan "unibridge" yakni jembatan balok beton (girder) komposit yang menggunakan pin pada setiap sambungan antar girder dengan konsep modular. Sistem ini tidak memerlukan pengencangan berkala, seperti halnya penggunaan baut pada model konvensional. Selain itu, material jembatan memiliki desain yang kompak dan ringan, serta lebih efisien dan lebih cepat dalam proses pembangunannya.
