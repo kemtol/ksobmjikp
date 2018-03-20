@@ -1054,6 +1054,8 @@ color: #525151;
 	max-width:100%;
 	margin-bottom:4rem;
 	font-size:1.75rem;
+	display:block;
+	text-align:center;
 }
 
 .post.container .date{
