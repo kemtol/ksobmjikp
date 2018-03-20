@@ -26,3 +26,4 @@ Rizal menambahkan, terkait pasokan gas ke PLTMG tersebut berasal dari infrastruk
 "Kerja sama ini diharapkan dapat terus berlanjut sebagai wujud sinergi BUMN, terutama bagi PGN dan Pelindo III melalui anak usaha masing-masing, dan secara khusus kerja sama Widar dan LEGI ini berkesinambungan sesuai dengan perkembangan Pelabuhan Teluk Lamong," tutup Rizal.
 
 Sumber : Bisnis.com
+Foto : sportourism.id
