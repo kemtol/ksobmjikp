@@ -6,7 +6,6 @@ categories:
 ---
 
 ![latihan-penanggulangan-ancaman-keamanan-pelabuhan-p0jcji-prv.jpg](/uploads/latihan-penanggulangan-ancaman-keamanan-pelabuhan-p0jcji-prv.jpg)
-*sumber: antarafoto.com*
 
 Sebagaimana diketahui, Terminal Teluk Lamong adalah anak perusahaan PT Pelabuhan Indonesia III (Persero) yang dibangun sebagai pengembangan dari Pelabuhan Tanjung Perak. Terminal Teluk Lamong berperan dalam memecah kepadatan dan mempercepat proses penyebaran arus barang untuk tujuan Kawasan Timur Indonesia. Untuk tercapainya tujuan tersebut, maka diperlukan standar keamanan yang terpercaya.
 
