@@ -1,5 +1,5 @@
 ---
-title: Anak Perusahaan PGN Pasok Listrik 3,3 Mw ke Terminal Teluk Lamong
+title: Anak Perusahaan PGN Memasok Listrik 3,3 Mw ke Terminal Teluk Lamong
 date: 2018-03-20 12:00:00 +07:00
 categories:
 - News
