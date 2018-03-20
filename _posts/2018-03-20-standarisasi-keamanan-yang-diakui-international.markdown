@@ -1,5 +1,5 @@
 ---
-title: Standarisasi Keamanan yang Diakui Internasional
+title: Terminal Teluk Lamong Memiliki Standarisasi Keamanan yang Diakui Internasional
 date: 2018-03-20 10:57:00 +07:00
 categories:
 - News
