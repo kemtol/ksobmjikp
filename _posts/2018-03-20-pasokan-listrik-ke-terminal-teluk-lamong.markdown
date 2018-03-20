@@ -11,7 +11,7 @@ tags:
 - listrik
 ---
 
-![PLTG.jpg](/uploads/PLTG.jpg)
+![Picture1.png](/uploads/Picture1.png)
 
 Sebagai Pelabuhan paling modern pertama di Indonesia, maka Terminal Teluk Lamong memerlukan pasokan listrik yang memadai dalam pengoperasiannya. PT Widar Mandripa Nusantara (Widar), yang merupakan salah satu anak perusahaan PT Perusahaan Gas Negara (Persero) Tbk, dipercaya untuk memasok listrik sebesar 3,3 megawatt (MW) ke Kawasan Pelabuhan PT Terminal Teluk Lamong, Jawa Timur.
 
@@ -26,4 +26,4 @@ Rizal menambahkan, terkait pasokan gas ke PLTMG tersebut berasal dari infrastruk
 "Kerja sama ini diharapkan dapat terus berlanjut sebagai wujud sinergi BUMN, terutama bagi PGN dan Pelindo III melalui anak usaha masing-masing, dan secara khusus kerja sama Widar dan LEGI ini berkesinambungan sesuai dengan perkembangan Pelabuhan Teluk Lamong," tutup Rizal.
 
 Sumber : Bisnis.com
-Foto : sportourism.id
+Foto : rianasyaraa.blogspot.co.id
