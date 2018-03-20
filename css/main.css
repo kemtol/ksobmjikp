@@ -1051,6 +1051,7 @@ color: #525151;
 }
 
 .post.container img{
+	margin:0 auto;
 	max-width:100%;
 	margin-bottom:4rem;
 	font-size:1.75rem;
