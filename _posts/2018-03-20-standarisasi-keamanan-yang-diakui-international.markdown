@@ -5,6 +5,8 @@ categories:
 - News
 ---
 
+![latihan-penanggulangan-ancaman-keamanan-pelabuhan-p0jcji-prv.jpg](/uploads/latihan-penanggulangan-ancaman-keamanan-pelabuhan-p0jcji-prv.jpg)
+
 Sebagaimana diketahui, Terminal Teluk Lamong adalah anak perusahaan PT Pelabuhan Indonesia III (Persero) yang dibangun sebagai pengembangan dari Pelabuhan Tanjung Perak. Terminal Teluk Lamong berperan dalam memecah kepadatan dan mempercepat proses penyebaran arus barang untuk tujuan Kawasan Timur Indonesia. Untuk tercapainya tujuan tersebut, maka diperlukan standar keamanan yang terpercaya.
 
 Terminal Teluk Lamong menerapkan keamanan International Ship and Port Facility Security Code atau ISPS Code yaitu aturan komprehensif mengenai berbagai langkah untuk meningkatkan keamanan terhadap kapal dan fasilitas pelabuhan. Regulasi ini dibuat untuk mengantisipasi ancaman serangan teror pada armada kapal dan fasilitas pelabuhan pasca serangan teror di New York, 11 September 2001.
